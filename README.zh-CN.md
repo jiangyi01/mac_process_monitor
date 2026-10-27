@@ -27,3 +27,7 @@ swift tools/make_icon.swift # 重新生成图标
 ```
 
 只需要 Command Line Tools，不需要 Xcode。
+
+## 许可证
+
+[MIT](LICENSE)

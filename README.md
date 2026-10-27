@@ -55,3 +55,7 @@ swift tools/make_icon.swift                           # regenerate Resources/App
 | Swap | `sysctl vm.swapusage` |
 | Network | `getifaddrs` byte counters on physical `en*` interfaces |
 | Per-process memory / CPU | `proc_pid_rusage` (physical footprint, CPU time); `top` for privileged processes |
+
+## License
+
+[MIT](LICENSE)
